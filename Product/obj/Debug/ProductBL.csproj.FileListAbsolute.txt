@@ -1,0 +1,6 @@
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\Product\bin\Debug\Product.dll
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\Product\bin\Debug\Product.pdb
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\Product\obj\Debug\ProductBL.csproj.AssemblyReference.cache
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\Product\obj\Debug\ProductBL.csproj.CoreCompileInputs.cache
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\Product\obj\Debug\Product.dll
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\Product\obj\Debug\Product.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\Product.WebService\bin\Product.WebService.dll.config
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\Product.WebService\bin\Product.WebService.dll
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\Product.WebService\bin\Product.WebService.pdb
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\Product.WebService\bin\Product.dll
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\Product.WebService\bin\Product.pdb
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\Product.WebService\obj\Debug\Product.WebService.csproj.AssemblyReference.cache
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\Product.WebService\obj\Debug\Product.WebService.csproj.CoreCompileInputs.cache
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\Product.WebService\obj\Debug\Product.WebService.csproj.CopyComplete
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\Product.WebService\obj\Debug\Product.WebService.dll
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\Product.WebService\obj\Debug\Product.WebService.pdb

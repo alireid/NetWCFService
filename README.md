@@ -1,2 +1,3 @@
 # NetWCFService
-Example WCF service project returning basic product information
+
+Example project returning basic product information

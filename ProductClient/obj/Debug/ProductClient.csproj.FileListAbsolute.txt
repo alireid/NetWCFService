@@ -1,0 +1,6 @@
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\ProductClient\bin\Debug\ProductClient.exe.config
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\ProductClient\bin\Debug\ProductClient.exe
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\ProductClient\bin\Debug\ProductClient.pdb
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\ProductClient\obj\Debug\ProductClient.csproj.CoreCompileInputs.cache
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\ProductClient\obj\Debug\ProductClient.exe
+C:\Users\Ali Reid\Dropbox\git\NetWCFService\ProductClient\obj\Debug\ProductClient.pdb
